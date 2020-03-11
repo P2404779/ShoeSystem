@@ -1,2 +1,2 @@
 # ShoeSystem
-this is a test repostory
+these are my changes to the shoe system file
